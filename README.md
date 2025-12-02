@@ -1,2 +1,2 @@
 # OverTheWire
-Repository covering all OverTheWire wargame exercises
+Repository covering all wargames and their exercises
