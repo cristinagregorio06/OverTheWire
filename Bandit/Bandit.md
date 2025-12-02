@@ -4,7 +4,7 @@ Game execution:
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```
 
-Contraseña: bandit0
+Password: bandit0
 
 # Bandit Level 0 -> Level 1
 
